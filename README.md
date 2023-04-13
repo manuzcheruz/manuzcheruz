@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/manuzcheruz">
-<img align="right" width="410"  src="https://github-readme-stats.vercel.app/api?username=manuzcheruz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Manuzcheruz" />
+<img align="right" width="410"  src="https://github-readme-stats.vercel.app/api?username=manuzcheruz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Manuzcheruz" />
 </a>
 </p>
 
